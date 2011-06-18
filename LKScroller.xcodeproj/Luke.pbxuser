@@ -1,5 +1,33 @@
 // !$*UTF8*$!
 {
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 588}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* LKScrollerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 588}}";
+			sepNavSelRange = "{106, 0}";
+			sepNavVisRange = "{0, 411}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* LKScrollerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 640}}";
+			sepNavSelRange = "{48, 0}";
+			sepNavVisRange = "{0, 851}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* LKScroller_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 588}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 151}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = A300EE8613ACA19C00141497 /* LKScroller */;
@@ -17,9 +45,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					364,
+					994,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -37,8 +65,29 @@
 			PBXPerProjectTemplateStateSaveDate = 330080719;
 			PBXWorkspaceStateSaveDate = 330080719;
 		};
+		perUserProjectItems = {
+			A300EF0713ACAC3000141497 /* PBXTextBookmark */ = A300EF0713ACAC3000141497 /* PBXTextBookmark */;
+			A300EF0913ACAC3000141497 /* PBXTextBookmark */ = A300EF0913ACAC3000141497 /* PBXTextBookmark */;
+			A300EF0A13ACAC3000141497 /* PBXTextBookmark */ = A300EF0A13ACAC3000141497 /* PBXTextBookmark */;
+			A300EF0B13ACAC3000141497 /* PBXTextBookmark */ = A300EF0B13ACAC3000141497 /* PBXTextBookmark */;
+			A300EF0C13ACAC3000141497 /* PlistBookmark */ = A300EF0C13ACAC3000141497 /* PlistBookmark */;
+			A300EF0D13ACAC3000141497 /* PBXTextBookmark */ = A300EF0D13ACAC3000141497 /* PBXTextBookmark */;
+			A300EF0E13ACAC3000141497 /* PBXTextBookmark */ = A300EF0E13ACAC3000141497 /* PBXTextBookmark */;
+			A300EF0F13ACAC3000141497 /* PBXTextBookmark */ = A300EF0F13ACAC3000141497 /* PBXTextBookmark */;
+			A300EF1013ACAC3000141497 /* PBXTextBookmark */ = A300EF1013ACAC3000141497 /* PBXTextBookmark */;
+			A300EF1113ACAC3000141497 /* PBXTextBookmark */ = A300EF1113ACAC3000141497 /* PBXTextBookmark */;
+			A300EF1213ACAC3000141497 /* PBXTextBookmark */ = A300EF1213ACAC3000141497 /* PBXTextBookmark */;
+			A300EF1313ACAC3000141497 /* PBXTextBookmark */ = A300EF1313ACAC3000141497 /* PBXTextBookmark */;
+		};
 		sourceControlManager = A300EE9213ACA1A000141497 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 588}}";
+			sepNavSelRange = "{89, 0}";
+			sepNavVisRange = "{0, 241}";
 		};
 	};
 	8D1107260486CEB800E47090 /* LKScroller */ = {
@@ -63,6 +112,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -70,6 +120,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = LKScroller;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -90,23 +142,157 @@
 	};
 	A300EE9D13ACA1F300141497 /* LKScroller.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1172, 613}}";
-			sepNavSelRange = "{24, 10}";
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 588}}";
+			sepNavSelRange = "{229, 0}";
 			sepNavVisRange = "{0, 260}";
 		};
 	};
 	A300EE9E13ACA1F300141497 /* LKScroller.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1172, 960}}";
-			sepNavSelRange = "{178, 0}";
-			sepNavVisRange = "{0, 898}";
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 1008}}";
+			sepNavSelRange = "{967, 0}";
+			sepNavVisRange = "{503, 881}";
 		};
 	};
 	A300EE9F13ACA1F300141497 /* LKScrollView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1172, 613}}";
-			sepNavSelRange = "{97, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 588}}";
+			sepNavSelRange = "{167, 0}";
 			sepNavVisRange = "{0, 202}";
 		};
+	};
+	A300EEA013ACA1F300141497 /* LKScrollView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 624}}";
+			sepNavSelRange = "{185, 0}";
+			sepNavVisRange = "{3, 811}";
+		};
+	};
+	A300EF0713ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A300EF0813ACAC3000141497 /* NSTableView.h */;
+		name = "NSTableView.h: 591";
+		rLen = 178;
+		rLoc = 39654;
+		rType = 0;
+		vrLen = 3080;
+		vrLoc = 39236;
+	};
+	A300EF0813ACAC3000141497 /* NSTableView.h */ = {
+		isa = PBXFileReference;
+		name = NSTableView.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSTableView.h;
+		sourceTree = "<absolute>";
+	};
+	A300EF0913ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* LKScrollerAppDelegate.h */;
+		name = "LKScrollerAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 106;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	A300EF0A13ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* LKScrollerAppDelegate.m */;
+		name = "LKScrollerAppDelegate.m: 4";
+		rLen = 0;
+		rLoc = 48;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 0;
+	};
+	A300EF0B13ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	A300EF0C13ACAC3000141497 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* LKScroller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/users/Luke/Projects/LKScroller/LKScroller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	A300EF0D13ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* LKScroller_Prefix.pch */;
+		name = "LKScroller_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 151;
+		vrLoc = 0;
+	};
+	A300EF0E13ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 89;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+	A300EF0F13ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A300EEA013ACA1F300141497 /* LKScrollView.m */;
+		name = "LKScrollView.m: 10";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 3;
+	};
+	A300EF1013ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A300EE9F13ACA1F300141497 /* LKScrollView.h */;
+		name = "LKScrollView.h: 12";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 0;
+	};
+	A300EF1113ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A300EE9D13ACA1F300141497 /* LKScroller.h */;
+		name = "LKScroller.h: 14";
+		rLen = 0;
+		rLoc = 229;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	A300EF1213ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A300EE9E13ACA1F300141497 /* LKScroller.m */;
+		name = "LKScroller.m: 13";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 919;
+		vrLoc = 122;
+	};
+	A300EF1313ACAC3000141497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A300EE9E13ACA1F300141497 /* LKScroller.m */;
+		name = "LKScroller.m: 41";
+		rLen = 0;
+		rLoc = 967;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 503;
 	};
 }
