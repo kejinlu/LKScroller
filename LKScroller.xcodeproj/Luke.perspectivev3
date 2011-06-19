@@ -255,7 +255,7 @@
 						<dict>
 							<key>PBXSmartGroupTreeModuleColumnWidthsKey</key>
 							<array>
-								<real>185</real>
+								<real>316</real>
 							</array>
 							<key>PBXSmartGroupTreeModuleColumnsKey_v4</key>
 							<array>
@@ -283,7 +283,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {185, 760}}</string>
+							<string>{{0, 0}, {316, 760}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -293,19 +293,19 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {202, 778}}</string>
+						<string>{{0, 0}, {333, 778}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
-							<real>185</real>
+							<real>316</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>1 58 1440 819 0 0 1440 878 </string>
+						<string>0 59 1440 819 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
 					<key>Proportion</key>
-					<string>202pt</string>
+					<string>333pt</string>
 				</dict>
 				<dict>
 					<key>Dock</key>
@@ -330,7 +330,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A300EF1313ACAC3000141497</string>
+										<string>A368CAFD13ADD71E000E0787</string>
 										<key>history</key>
 										<array>
 											<string>A300EF0713ACAC3000141497</string>
@@ -340,10 +340,10 @@
 											<string>A300EF0C13ACAC3000141497</string>
 											<string>A300EF0D13ACAC3000141497</string>
 											<string>A300EF0E13ACAC3000141497</string>
-											<string>A300EF0F13ACAC3000141497</string>
-											<string>A300EF1013ACAC3000141497</string>
 											<string>A300EF1113ACAC3000141497</string>
-											<string>A300EF1213ACAC3000141497</string>
+											<string>A368CAF813ADD6FD000E0787</string>
+											<string>A368CAF913ADD6FD000E0787</string>
+											<string>A368CAFA13ADD6FD000E0787</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -357,18 +357,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1233, 645}}</string>
+								<string>{{0, 0}, {1102, 634}}</string>
 								<key>RubberWindowFrame</key>
-								<string>1 58 1440 819 0 0 1440 878 </string>
+								<string>0 59 1440 819 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>645pt</string>
+							<string>634pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>128pt</string>
+							<string>139pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -382,9 +382,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1233, 101}}</string>
+										<string>{{10, 27}, {1102, 112}}</string>
 										<key>RubberWindowFrame</key>
-										<string>1 58 1440 819 0 0 1440 878 </string>
+										<string>0 59 1440 819 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -447,7 +447,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>1233pt</string>
+					<string>1102pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -466,11 +466,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A300EF1413ACAC3000141497</string>
+				<string>A368CAE413ADD6CE000E0787</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>A300EF1513ACAC3000141497</string>
+				<string>A368CAE513ADD6CE000E0787</string>
 				<string>A300EE8C13ACA1A000141497</string>
-				<string>A300EF1613ACAC3000141497</string>
+				<string>A368CAE613ADD6CE000E0787</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -619,14 +619,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A300EF1713ACAC3000141497</string>
+				<string>A368CAE713ADD6CE000E0787</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>A300EF1813ACAC3000141497</string>
-				<string>A300EF1913ACAC3000141497</string>
-				<string>A300EF1A13ACAC3000141497</string>
-				<string>A300EF1B13ACAC3000141497</string>
-				<string>A300EF1C13ACAC3000141497</string>
+				<string>A368CAE813ADD6CE000E0787</string>
+				<string>A368CAE913ADD6CE000E0787</string>
+				<string>A368CAEA13ADD6CE000E0787</string>
+				<string>A368CAEB13ADD6CE000E0787</string>
+				<string>A368CAEC13ADD6CE000E0787</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -660,12 +660,13 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>A300EF1D13ACAC3000141497</string>
-		<string>A300EF1E13ACAC3000141497</string>
+		<string>A368CAFC13ADD6FD000E0787</string>
+		<string>A368CAEE13ADD6CE000E0787</string>
+		<string>A368CAEF13ADD6CE000E0787</string>
 		<string>/users/Luke/Projects/LKScroller/LKScroller.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>1 58 1440 819 0 0 1440 878 </string>
+	<string>0 59 1440 819 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

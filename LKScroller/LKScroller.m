@@ -38,7 +38,7 @@ NSColor *KScrollerKnobColorNormal;
 		[autoHideScrollerTimer invalidate];
 		[autoHideScrollerTimer release];
 	}
-	autoHideScrollerTimer=[[NSTimer scheduledTimerWithTimeInterval:100.25 
+	autoHideScrollerTimer=[[NSTimer scheduledTimerWithTimeInterval:0.25 
 															target:self 
 														  selector:@selector(hide) 
 														  userInfo:nil repeats:NO] retain];
